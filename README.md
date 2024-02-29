@@ -1,2 +1,2 @@
 # Áudio
-Repositório onde tem um trabalho realizao por mim para o curso Alura de orientação a objetos em Java.
+Este repositório contém um trabalho realizado por mim para o curso Alura de orientação a objetos em Java.
